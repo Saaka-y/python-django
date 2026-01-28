@@ -18,5 +18,3 @@ user["name"] = "Ai"
 
 user["hobby"] = "reading"
 # print(user)
-
-
